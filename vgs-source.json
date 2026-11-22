@@ -1,0 +1,73 @@
+{
+ "schema": "vgs-source/2",
+ "source_id": "vgs-covers-nintendo",
+ "updated": "2026-11-22T09:21:36+00:00",
+ "licence": {
+  "artwork_default": {
+   "redistribution": "unknown",
+   "attribution": "Box art from the LaunchBox Games Database community (gamesdb.launchbox-app.com). Artwork belongs to its publishers."
+  }
+ },
+ "shards": [
+  {
+   "platform": "gc",
+   "path": "manifest/gc.f1a7dc9c.json",
+   "sha256": "f1a7dc9cf1d30df978ac2cbbc11f064f498f27cfae45f515b9c2bc951e08c7ce",
+   "games": 214
+  },
+  {
+   "platform": "n64",
+   "path": "manifest/n64.8d1417c4.json",
+   "sha256": "8d1417c4a1fa636e404b5bcad6773f3a5aca058d97f3a3381281bf69c5686bce",
+   "games": 227
+  },
+  {
+   "platform": "nes",
+   "path": "manifest/nes.5fa44c69.json",
+   "sha256": "5fa44c69beb68ca8a822fbd1d86b46e813410006a5eefb1a9f0f72fb7b0422e3",
+   "games": 302
+  },
+  {
+   "platform": "nintendo-64dd",
+   "path": "manifest/nintendo-64dd.ebdad80b.json",
+   "sha256": "ebdad80b6ee4e273aa1b354039796df2b913799cdccb4605a28431da465b32b8",
+   "games": 5
+  },
+  {
+   "platform": "nintendo-virtual-boy",
+   "path": "manifest/nintendo-virtual-boy.312b9e3e.json",
+   "sha256": "312b9e3ee0aaa8ac2f96cc58da3b3417baa3e14606140bd80e1bde1cebc3c87a",
+   "games": 1
+  },
+  {
+   "platform": "snes",
+   "path": "manifest/snes.8c780893.json",
+   "sha256": "8c780893609cb08cfa73a77c4449b88dd9bf2f24b7c67f5e75c8fae5ab766c48",
+   "games": 228
+  },
+  {
+   "platform": "switch",
+   "path": "manifest/switch.85fc4083.json",
+   "sha256": "85fc4083851a10d078aafeacfdd3251a8adae118e80cb633f1a0b2c475825cfb",
+   "games": 413
+  },
+  {
+   "platform": "switch2",
+   "path": "manifest/switch2.3860f6dc.json",
+   "sha256": "3860f6dc3697fa23eedf43d04ecbe5bf4697d2f91019134c49165c8897d8e8e8",
+   "games": 5
+  },
+  {
+   "platform": "wii",
+   "path": "manifest/wii.22601033.json",
+   "sha256": "226010330531a4c1ade1725f45896c71157c206e201db55c33cc8f8b4b888179",
+   "games": 356
+  },
+  {
+   "platform": "wiiu",
+   "path": "manifest/wiiu.ee87f11a.json",
+   "sha256": "ee87f11a656fd2dddf27118245d4a276d2e61e1f75db8d3fad4f9f51a8cf26cb",
+   "games": 104
+  }
+ ]
+}
